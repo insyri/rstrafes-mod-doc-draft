@@ -1,6 +1,6 @@
 **⚠️THIS IS A DRAFT AND IT IS NOT FINISHED⚠️**
 
-# rstrafes-mod-doc-draft
+# strafes.net-moderation-document-draft
 
 This is a rule draft sheet for the strafes.net moderator team to revise and for the public to read.
 
