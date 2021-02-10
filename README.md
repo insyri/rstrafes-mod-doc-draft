@@ -16,7 +16,7 @@ The reason of this respiratory is to make the ruleset strict with exile of human
 - gloriouspuma
 - st0tty
 - y_Mia
-- Mudkipsss
+- mudkipsss
 - h6ro
 
 #### Bhop Moderators
@@ -24,12 +24,13 @@ The reason of this respiratory is to make the ruleset strict with exile of human
 - insardia
 - fiveman1
 - rate
-- Etzy
+- etzy
 - abbez
 
-#### Interchangable Moderators
+#### Interchangable/Unkown Preference Moderators
 
 - insyri
+- kytalii
 
 #### Deleters
 
