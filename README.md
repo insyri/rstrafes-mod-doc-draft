@@ -14,19 +14,34 @@ The reason of this respiratory is to make the ruleset strict with exile of human
 
 #### Surf Moderators
 
-- snebrrr
+- snebr
 - gloriouspuma
-- stotty
+- st0tty
 - y_Mia
+- Mudkipsss
+- h6ro
 
 #### Bhop Moderators
 
 - insardia
 - fiveman1
+- rate
+- Etzy
+- abbez
 
 #### Interchangable Moderators
 
-insyri
+- insyri
+
+#### Deleters
+
+- fiveman1
+
+### Developers And Managers
+
+- itzaname
+- Quaternions
+- drumman22
 
 ## Sources
 
