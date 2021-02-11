@@ -1,5 +1,6 @@
 # Determination
 *Determination as in how we determine "things", not determination as in "firmness of purpose; resoluteness".*
+
 This document is made to clarify how we, the moderation decision makers, make decisions among **rules**, specifically implementation.
 
 There is no strict determination on how we approve new rules for implementation.
