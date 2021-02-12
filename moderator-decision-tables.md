@@ -6,7 +6,7 @@
 - [ ] mudkipsss
 - [x] h6ro
 - [ ] insardia
-- [ ] fiveman1
+- [x] fiveman1
 - [ ] rate
 - [ ] etzy
 - [ ] abbez
