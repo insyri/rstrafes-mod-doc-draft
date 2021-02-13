@@ -16,9 +16,8 @@ Rules follow for hand recording:
 #### Rules Regarding Camera/Webcam Capture Quality
 Any/most cameras have all these features, if your camera exceed the following
 We agknowledge some of us are not as fortunate to have a spare webcam or camera lying around, there are alternatives to which you use but it is recommended that you get a camera that contains the following qualities:
-- At least 144x144 resolution
-- At least 30 frames per second capture
-- 
+- At least 144x144 resolution (as export to upload as well)
+- At least 24 frames per second capture
 
 ## Post Recording
 - No skipping, cutting, filtering, or editing of any kind after recording the video.
