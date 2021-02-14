@@ -15,7 +15,7 @@ The reason of this respiratory is to make the ruleset strict with exile of human
 #### [🟨](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/moderator-decision-tables.md)
 In decision of approval or not; this is in consideration for the time being, however is not applicable yet. Clicking the emoji teleports you to a graph of moderators who have approved and who have not yet given input/disagreed.
 - [ ] No opinion, have not given input, or disagreed.
-- [x] Approved
+- [x] Approved/ Does not care.
 
 *See how we [determine approval of implementation](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/info/determination.md).*
 
