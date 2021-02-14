@@ -6,7 +6,7 @@ This does not apply to handshows that were not asked by mods, but is endorsed.
 
 A handshow consists of two video inputs:
 1. The camera for showing the hand movement.
-2. The recoding for the screen.
+2. The recording for the screen.
 
 ### Hand Recording
 Rules follow for hand recording:
