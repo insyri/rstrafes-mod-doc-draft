@@ -1,4 +1,4 @@
-**⚠️THIS IS A DRAFT AND IT IS NOT FINISHED⚠️**
+**⚠️THIS IS A DRAFT AND IT IS NOT FINISHED, THIS IS NOT OFFICIALLY ADDED AS THE RULESET⚠️**
 
 # strafes.net-moderation-document-draft
 
