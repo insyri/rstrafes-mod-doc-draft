@@ -32,6 +32,8 @@ World Record
 - y_Mia
 - mudkipsss
 - h6ro
+- cryptiss
+- kytalii
 
 #### Bhop Moderators
 
@@ -41,10 +43,9 @@ World Record
 - etzy
 - abbez
 
-#### Interchangable/Unkown Preference Moderators
+#### Interchangable Game Moderators
 
 - insyri
-- kytalii
 
 #### Deleters
 
