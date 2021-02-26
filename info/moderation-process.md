@@ -27,5 +27,6 @@ Blacklisted permissions are 0, meaning you:
 - CANNOT get new times
 - CANNOT appear on leaderboards
 - CANNOT hold WRs and get WR announcements
-
+## Other Notes
+[Deleted Times](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/faq/moderation.md#i-cant-see-my-times)
 [Source: Quaternions](https://media.discordapp.net/attachments/550710704261300281/611428605079322646/unknown.png)
