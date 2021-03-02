@@ -24,6 +24,6 @@ Stated above is not strict, the bottom line is that **it should be easy to see t
 - No skipping, cutting, filtering, or editing of any kind after or before recording the video that directly affects the hand view.
 [chris](https://www.youtube.com/watch?v=IOSiWzkuMz8) has a video with a good example of editing that does not affect the hand view.
 
-Rule of thumb is this: if it doesn't change anything when editied in relative to the undedited, it is probably okay. However it is just easier to not edit it at all.
+Rule of thumb is this: if it doesn't change anything when editied in relative to the undedited, it is probably okay. However, it is just easier to not edit it at all.
 - File type must be previewable somehow without downloading the video, whether on a website or on the discord client/app.
 If your camera takes footage in a file format not supported by discord previewing, convert it using an online application to mp4.
