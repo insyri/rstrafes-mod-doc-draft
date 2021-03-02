@@ -16,9 +16,14 @@ Rules follow for hand recording:
 #### Rules Regarding Camera/Webcam Capture Quality
 Any/most cameras have all these features, if your camera exceed the following
 We agknowledge some of us are not as fortunate to have a spare webcam or camera lying around, there are alternatives to which you use but it is recommended that you get a camera that contains the following qualities:
-- At least 144x144 resolution (as export to upload as well)
+- At least around 144x144 resolution (as export to upload as well)
 - At least 24 frames per second capture
+Stated above is not strict, the bottom line is that **it should be easy to see the hand and hand movement**.
 
 ## Post Recording
-- No skipping, cutting, filtering, or editing of any kind after recording the video.
+- No skipping, cutting, filtering, or editing of any kind after or before recording the video that directly affects the hand view.
+[chris](https://www.youtube.com/watch?v=IOSiWzkuMz8) has a video with a good example of editing that does not affect the hand view.
+
+Rule of thumb is this: if it doesn't change anything when editied in relative to the undedited, it is probably okay. However it is just easier to not edit it at all.
 - File type must be previewable somehow without downloading the video, whether on a website or on the discord client/app.
+If your camera takes footage in a file format not supported by discord previewing, convert it using an online application to mp4.
