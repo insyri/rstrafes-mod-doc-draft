@@ -61,4 +61,6 @@ World Record
 
 [Official Moderation Documentation](https://docs.google.com/document/d/1D8i9_5HCNw1wh6CBcwK6Z-i3vq-MYuME4BJuoVD37SE/edit?usp=sharing)
 
+Screenshots
+
 **Subject to change.**
