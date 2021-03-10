@@ -17,5 +17,5 @@ Audio should be enabled
 Close all programs on taskbar that aren't Roblox, **do not open anything not necessary for handshow**
 If something is not easily visible (such as task manager) then the handshow is invalid
 
-There is no deadline for this, and moving forward it's unlikely you will be punished unless you continue to set times that are suspicious. We're requesting this as a precaution, not as a punishment. My DM's are always open if you have any questions.
+There is no deadline for this, and moving forward it's unlikely you will be punished unless you continue to set times that are suspicious. We're requesting this as a precaution, not as a punishment. My DM's are always open if you have any questions. For more specifics, go to https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/info/how-to-handshow.md to see more.
 ```
