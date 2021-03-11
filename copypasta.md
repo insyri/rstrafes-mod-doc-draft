@@ -19,3 +19,23 @@ If something is not easily visible (such as task manager) then the handshow is i
 
 There is no deadline for this, and moving forward it's unlikely you will be punished unless you continue to set times that are suspicious. We're requesting this as a precaution, not as a punishment. My DM's are always open if you have any questions. For more specifics, go to https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/info/how-to-handshow.md to see more.
 ```
+
+## Decision Table
+```
+- [ ] snebr
+- [ ] gloriouspuma
+- [ ] st0tty
+- [ ] y_Mia
+- [ ] mudkipsss
+- [ ] h6ro
+- [ ] insardia
+- [ ] fiveman1
+- [ ] rate
+- [ ] etzy
+- [ ] abbez
+- [ ] insyri
+- [ ] kytalii
+- [ ] itzaname
+- [ ] Quaternions
+put [x] for checked
+```
