@@ -1,16 +1,3 @@
-## [Creating Scripts](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/rules/allowed.md#creating-scripts)
-- [ ] snebr
-- [ ] gloriouspuma
-- [ ] st0tty
-- [ ] y_Mia
-- [ ] mudkipsss
-- [x] h6ro
-- [ ] insardia
-- [x] fiveman1
-- [ ] rate
-- [ ] etzy
-- [ ] abbez
-- [x] insyri
-- [ ] kytalii
-- [ ] itzaname
-- [ ] Quaternions
+To find the template, see the [copypasta](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/copypasta.md#decision-table).
+# Table
+None yet!
