@@ -37,7 +37,7 @@ Stated above is not strict, the bottom line is that **it should be easy to see t
 #### Recording Content
 - Computer restart
 - Task Manager Processes and start up processes
-- ![Hidden Icons](https://user-images.githubusercontent.com/60794909/110715522-635c2d80-81d3-11eb-8480-90c8071c9446.png)
+- [Hidden Icons](https://user-images.githubusercontent.com/60794909/110715522-635c2d80-81d3-11eb-8480-90c8071c9446.png)
 - Taskbar
 - Mouse
 - Monitor
