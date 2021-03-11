@@ -37,5 +37,5 @@ There is no deadline for this, and moving forward it's unlikely you will be puni
 - [ ] kytalii
 - [ ] itzaname
 - [ ] Quaternions
-put [x] for checked
+// put [x] for checked and [ ] for unchecked
 ```
