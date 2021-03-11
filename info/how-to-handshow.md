@@ -2,6 +2,21 @@
 This is a document dedicated to the rules and clarity of recording a handshow that was requested by moderators.
 This does not apply to handshows that were not asked by mods, but is endorsed.
 
+This is incomplete and needs revision.
+
+## TLDR
+
+Have a monitor completely visible
+Have keyboard completely visible or at least A/D keys
+Have mouse visible
+Show computer restart
+Show all processes in task manager
+Show startup programs in task manager
+Show bottom right arrow (Show hidden icons) and mouse over all programs
+Audio should be enabled
+Close all programs on taskbar that aren't Roblox, **do not open anything not necessary for handshow**
+If something is not easily visible (such as task manager) then the handshow is invalid
+
 ## Recording
 
 A handshow consists of two video inputs:
@@ -19,6 +34,15 @@ We agknowledge some of us are not as fortunate to have a spare webcam or camera 
 - At least around 144x144 resolution (as export to upload as well)
 - At least 24 frames per second capture
 Stated above is not strict, the bottom line is that **it should be easy to see the hand and hand movement**.
+#### Recording Content
+- Computer restart
+- Task Manager Processes and start up processes
+- ![Hidden Icons](https://user-images.githubusercontent.com/60794909/110715522-635c2d80-81d3-11eb-8480-90c8071c9446.png)
+- Taskbar
+- Mouse
+- Monitor
+- Audio
+- Keyboard (At least WASD)
 
 ## Post Recording
 - No skipping, cutting, filtering, or editing of any kind after or before recording the video that directly affects the hand view.
