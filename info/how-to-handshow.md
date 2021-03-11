@@ -6,16 +6,16 @@ This is incomplete and needs revision.
 
 ## TLDR
 
-Have a monitor completely visible
-Have keyboard completely visible or at least A/D keys
-Have mouse visible
-Show computer restart
-Show all processes in task manager
-Show startup programs in task manager
-Show bottom right arrow (Show hidden icons) and mouse over all programs
-Audio should be enabled
-Close all programs on taskbar that aren't Roblox, **do not open anything not necessary for handshow**
-If something is not easily visible (such as task manager) then the handshow is invalid
+- Have a monitor completely visible
+- Have keyboard completely visible or at least A/D keys
+- Have mouse visible
+- Show computer restart
+- Show all processes in task manager
+- Show startup programs in task manager
+- Show bottom right arrow (Show hidden icons) and mouse over all programs
+- Audio should be enabled
+- Close all programs on taskbar that aren't Roblox, **do not open anything not necessary for handshow**
+- If something is not easily visible (such as task manager) then the handshow is invalid
 
 ## Recording
 
