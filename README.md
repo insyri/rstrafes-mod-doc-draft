@@ -4,7 +4,7 @@
 
 This is a rule draft sheet for the strafes.net moderator team to revise and for the public to read.
 
-The reason of this respiratory is to make the ruleset strict with exile of human determination, moderation with bias is subject to favor or disservice others, removing this creates fairness for all players and keeps a constant logic.
+The purpose for this repository is to make the ruleset strict with exile of human determination, moderation with bias is subject to favor or disservice others, removing this creates fairness for all players and keeps a constant logic.
 
 > If you don't have "hard" policies it also gives mods wiggle room to favor people they like and fuck people they dislike.
 
