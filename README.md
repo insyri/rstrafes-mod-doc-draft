@@ -30,6 +30,7 @@ World Record
 - gloriouspuma
 - st0tty
 - y_Mia
+- cryptiss
 - mudkipsss
 - h6ro
 - cryptiss
@@ -37,7 +38,6 @@ World Record
 
 #### Bhop Moderators
 
-- insardia
 - fiveman1
 - rate
 - etzy
