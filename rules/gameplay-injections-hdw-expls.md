@@ -1,4 +1,4 @@
-# Gameplay Exploits
+# Gameplay Injections/ Hardware Exploits
 This contains the different exploits that provide **external assistance**; if enough evidence suggests that a/the user is found to utilize these, they will be issued moderation. Some items in game are purposefully added into maps, those count as internal additions which are allowed. Including but not limited to: accelerators. <sub>note: update list</sub>
 
 ## Appealable
