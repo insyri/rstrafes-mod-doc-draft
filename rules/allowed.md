@@ -14,3 +14,6 @@ Developing exploits and scripts for cheating on the games *alone* are not blackl
 Spaz-strafing after a stage teleport to gain speed before hitting the ground.
 
 <sub>fiveman, 3/26/2021</sub>
+
+## Scroll Edgeboosting
+See edgeboosting (im not done here)
