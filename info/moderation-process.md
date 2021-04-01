@@ -8,20 +8,17 @@ There are four status\'s.
 Moderation status starts as this, when you join your first time in, this is your status. As this you can:
 - Get new times
 - Appear on leaderboards
-- CANNOT WRs and get WR announcements
-If you get a WR and your status is 'normal', you are set to pending status. (You cannot hold a WR as normal, you must be verified.)
+- CANNOT hold WRs and get WR announcements, if you get a WR and your status is 'normal', you are set to pending status. (You cannot hold a WR as normal, you must be verified.)
 ## Pending
 As pending you can:
 - Get new times
 - CANNOT appear on the leaderboard
-- CANNOT hold WRs and get WR announcements
-If you are approved by moderators, your status is set to whitelisted.
+- CANNOT hold WRs and get WR announcements, if you are approved by moderators, your status is set to whitelisted.
 ## Whitelisted
 Permissions:
 - Get new times
 - Appear on leaderboards
-- Hold WRs and get WR announcements
-However, if you are a suspected cheater, your moderation status is set to blacklisted.
+- Hold WRs and get WR announcements, however, if you are a suspected cheater, your moderation status is set to blacklisted.
 ## Blacklisted
 Blacklisted permissions are 0, meaning you:
 - CANNOT get new times
