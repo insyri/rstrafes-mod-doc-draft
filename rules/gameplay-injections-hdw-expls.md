@@ -4,6 +4,7 @@ This contains the different exploits that provide **external assistance**; if en
 ## Appealable
 ### Timescaling
 Manipulating the in-game time to either slow down or speed up the user.
+*Note: using the `/timescale` command IS allowed, but it does not submit your time. Using injections to bypass this, blacklistable.*
 ### Gains/Gaining
 Manipulating the user's movement speed or position to either slow down or speed up; adding, subtracting, multiplying, or dividing the user's speed/ modifying the user's position, teleportation for example.
 ### Angle Changing
