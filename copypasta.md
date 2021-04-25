@@ -22,17 +22,14 @@ There is no deadline for this, and moving forward it's unlikely you will be puni
 
 ## Decision Table
 ```
-- [ ] snebr
 - [ ] gloriouspuma
 - [ ] st0tty
 - [ ] y_Mia
-- [ ] mudkipsss
 - [ ] h6ro
 - [ ] cryptiss
 - [ ] fiveman1
 - [ ] rate
 - [ ] etzy
-- [ ] abbez
 - [ ] insyri
 - [ ] kytalii
 - [ ] itzaname
