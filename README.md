@@ -26,12 +26,10 @@ World Record
 
 #### Surf Moderators
 
-- snebr
 - gloriouspuma
 - st0tty
 - y_Mia
 - cryptiss
-- mudkipsss
 - h6ro
 - cryptiss
 - kytalii
@@ -41,7 +39,6 @@ World Record
 - fiveman1
 - rate
 - etzy
-- abbez
 
 #### Interchangable Game Moderators
 
