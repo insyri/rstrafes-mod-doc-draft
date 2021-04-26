@@ -22,6 +22,7 @@ In decision of approval or not; this is in consideration for the time being, how
 - [x] Approved/ Does not care.
 
 *See how we [determine approval of implementation](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/info/determination.md).*
+*Note: this is probably going to be depricated.*
 
 #### WR
 World Record
@@ -43,7 +44,7 @@ This is a person with power to delete times of the leaderboard.
 
 #### Bhop Moderators
 
-- fiveman1
+- [fiveman1](https://github.com/fiveman1)
 - rate
 - etzy
 
