@@ -1,4 +1,4 @@
-# Moderation FAQ
+# FAQ
 
 ## I can't see my times!
 When you put in pending or blacklisted, your times disappear to the public, only moderators can see your deleted times.
