@@ -21,5 +21,3 @@ Logitech provides a special feature in which the scroll wheel can scroll for a f
 Using an AutoHotkey or Macro to bind to `a`, `d`, `s`, or `w` to your mouse movement, having it sync for the user. This is **different** from [Turn Binds](https://github.com/insyri/strafes.net-moderation-document-draft/new/main/rules#turn-binds).
 ### Nulls
 Preventing the user from pressing a key to achieve/aim for perfect/close to perfect sync; nullifying/disabling a button to register.
-### Alternate Account(s)
-New accounts used made to cheat, or accounts that were made by an already blacklisted user. Click [here](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/rules/other.md#alternative-accounts) for more info.
