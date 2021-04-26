@@ -13,7 +13,10 @@ Developing exploits and scripts for cheating on the games *alone* are not blackl
 ## Telehopping
 Purposefully surfing/bhopping into a trigger to respawn with more speed. (This does not apply to all maps, some may have an anti-telehop.)
 
-<sub>hiro 4/26/2021</sub>
+## Spinning/Strafing Inside Anti-Telehop
+Spaz-strafing/spinning after a stage teleport to gain speed before hitting the ground.
+<sub>fiveman 3/26/2021<sub>
 
 ## Scroll Edgeboosting
 See edgeboosting (im not done here)
+
