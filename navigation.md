@@ -9,7 +9,7 @@ With this, we know that not many are used to Github and for ease, we will explai
 The only important parts here are Code, Issues, and Discussions. We are not forward to the use of pull requests, due to it's nonsensical use in this repository, but if agreed, we are not against pull requests (if you don't know what pull requests are, don't be worried).
 
 ## Code/Text
-In the **Code** section, you can see all the texts about the rules and other related stuff, ignore the `./github/...` stuff, that's not part of the actual rules. As you can see, there are folders and texts that end with `.md`, all of those are texts that are part of the rules, navigating into the folders reveal more texts. You can view the context of these texts by clicking on their title name.
+In the **Code** section, you can see all the texts about the rules and other related stuff, ignore the `.github/...` stuff, that's not part of the actual rules. As you can see, there are folders and texts that end with `.md`, all of those are texts that are part of the rules, navigating into the folders reveal more texts. You can view the context of these texts by clicking on their title name.
 ![image](https://user-images.githubusercontent.com/60794909/116122059-48fce700-a68f-11eb-90fe-4f1c7760c1bd.png)
 The left text is the title of the text/folder, the middle is the details about the latest modification, and to the right is the date when it was last modified.
 
