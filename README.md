@@ -45,7 +45,7 @@ This is a person with power to delete times of the leaderboard.
 
 #### Interchangable Game Moderators
 
-- insyri
+- [insyri](https://github.com/insyri)
 
 #### Deleters
 
