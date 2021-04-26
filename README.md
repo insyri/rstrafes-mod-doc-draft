@@ -10,6 +10,10 @@ The purpose for this repository is to make the ruleset strict with exile of huma
 
 ## Info
 
+### Navigation
+
+If you are not accustomed to Github, please refer to our navigation text [here](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md).
+
 ### Terminology
 
 #### [🟨](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/moderator-decision-tables.md)
