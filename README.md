@@ -22,6 +22,9 @@ In decision of approval or not; this is in consideration for the time being, how
 #### WR
 World Record
 
+#### Deleter
+This is a person with power to delete times of the leaderboard.
+
 ### Moderators
 
 #### Surf Moderators
