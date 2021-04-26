@@ -11,6 +11,8 @@ If a user is known for cheating or exploiting on other movement games other than
 ## Alternative account(s)
 - A account’s age is under one month old and makes it into pending, it will be blacklisted unless the identity of the account is confirmed to be a legitimate player’s account.
 - Only one alternate account per world record holder (verify with a mod which account you would like to keep).
+- Ban evade via alt will possibly lead to additional punishments.
+- If you are caught cheating on an alternate account, all known accounts that you are associated with will be blacklisted as well.
 - Players cannot get a whitelisted alt for an already blacklisted player. The alt and all known associated accounts with both players will be blacklisted if this rule is broken.
 *Note: we may blacklist your alternative account just for being suspicious in any sense.*
 ## 
