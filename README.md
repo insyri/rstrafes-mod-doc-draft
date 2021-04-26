@@ -30,9 +30,9 @@ World Record
 - st0tty
 - y_Mia
 - cryptiss
-- h6ro
+- [h6ro](https://github.com/1337hiro)
 - cryptiss
-- kytalii
+- [kytalii](https://github.com/Azurilex)
 
 #### Bhop Moderators
 
