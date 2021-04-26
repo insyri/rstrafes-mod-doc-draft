@@ -9,6 +9,7 @@ If a user is known for cheating or exploiting on other movement games other than
 [Discord Teleport](https://discord.com/channels/167423382697148416/167423382697148416/818546536753135668)
 
 ## Alternative account(s)
+New accounts used made to cheat, or accounts that were made by an already blacklisted user.
 - A account’s age is under one month old and makes it into pending, it will be blacklisted unless the identity of the account is confirmed to be a legitimate player’s account.
 - Only one alternate account per world record holder (verify with a mod which account you would like to keep).
 - Ban evade via alt will possibly lead to additional punishments.
