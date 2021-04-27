@@ -52,6 +52,7 @@ This is a person with power to delete times of the leaderboard.
 - itzaname
 - Quaternions
 - drumman22
+- r9restaurant
 
 ## Sources
 
