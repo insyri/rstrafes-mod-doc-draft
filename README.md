@@ -31,7 +31,6 @@ This is a person with power to delete times of the leaderboard.
 - y_Mia
 - cryptiss
 - [h6ro](https://github.com/1337hiro)
-- cryptiss
 - [kytalii](https://github.com/Azurilex)
 
 #### Bhop Moderators
