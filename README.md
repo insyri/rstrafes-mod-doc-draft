@@ -45,7 +45,7 @@ This is a person with power to delete times of the leaderboard.
 
 #### Deleters
 
-- fiveman1
+- [fiveman1](https://github.com/fiveman1)
 
 ### Developers And Managers
 
