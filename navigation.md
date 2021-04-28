@@ -14,7 +14,7 @@ In the **Code** section, you can see all the texts about the rules and other rel
 The left text is the title of the text/folder, the middle is the details about the latest modification, and to the right is the date when it was last modified.
 
 ![image](https://user-images.githubusercontent.com/60794909/116122385-b6107c80-a68f-11eb-9c7b-848c149454b7.png)
-This is the latest update bar, can be found on top of the texts. On the left, you can see who issued the update, then the details of the update, then on the right, the obscure numbers and letters are just the ID of the commit, then how long ago the update was issued, then how many updates in total have been issued.
+This is the latest update bar, can be found on top of the texts. On the left, you can see who issued the update, then the details of the update, then on the right, the obscure numbers and letters are just the ID of the commit, then how long ago the update was issued, then how many updates in total have been issued. You can view the recent commits and changes by clicking on the `XXX commits` button.
 
 ## Discussions
 In the **Discussions** section, you will see a few things.
