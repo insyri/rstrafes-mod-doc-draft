@@ -15,6 +15,7 @@ Abusing the edges of a platform in order to gain any amount of speed, usually yo
 *Note: Edgeboosting rules do not apply to the Scroll category.*
 ### Edge Ricochet
 Abusing the edge of any platform/part to abuse game mechanics and directionally push to dramatically change one's height.
+*AKA, Bouncing or Long Pocketing.*
 ### Map Skips/Glitches
 Any skip that involves clipping through a part or exiting the boundaries of a map is forbidden. This also includes bouncing up to skip over another part of the map. If you have found a map bug like this, please refer and fill out the form [here](https://docs.google.com/forms/d/e/1FAIpQLSej_g-logtEZbykSuXpBdd0St7JIajTdN7BM_DZEJuhK6oW2A/viewform).
 ### Ladder Boosting
