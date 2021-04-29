@@ -43,7 +43,7 @@ This category is most commonly used when the moderator isn't 100% on the reason,
 ### Speedgain
 sussy
 ### Player
-Over player <sub>(is sussy)</sub>.
+Overall player is ***sussy***.
 ### Sync
 sussy
 ### Time
