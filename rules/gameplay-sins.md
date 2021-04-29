@@ -10,7 +10,7 @@ New accounts used made to cheat, or accounts that were made by an already blackl
 - Players cannot get a whitelisted alt for an already blacklisted player. The alt and all known associated accounts with both players will be blacklisted if this rule is broken.
 *Note: we may blacklist your alternative account just for being suspicious in any sense.*
 ## Warnable
-### Edgeboosting
+### Edgeboosting/Edgesurfing
 Abusing the edges of a platform in order to gain any amount of speed, usually you surf a little off of it. Jumping on the spine of surf ramps without gaining speed is not edgeboosting.
 *Note: Edgeboosting rules do not apply to the Scroll category.*
 ### Edge Ricochet
