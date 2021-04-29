@@ -7,7 +7,7 @@ Using the [unofficial Roblox FPS Unlocker](https://github.com/axstin/rbxfpsunloc
 ## Turn Binds
 Binding mouse movement left/right to a keyboard/mouse button.
 
-## [🟨](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/moderator-decision-tables.md#creating-scripts) Creating Scripts
+## Creating Scripts
 Developing exploits and scripts for cheating on the games *alone* are not blacklistable, however *using* the cheats makes you qualified for a blacklist.
 
 ## Telehopping
