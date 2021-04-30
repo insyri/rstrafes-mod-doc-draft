@@ -21,6 +21,6 @@ Any skip that involves clipping through a part or exiting the boundaries of a ma
 ### Ladder Boosting
 Abuse of using ladders to boost over the edge to instantly gain units.
 ### No title rules
-- Leaving the startzone and re-entering the startzone to gain a height advantage at the start of the map or re-entering after touching an anti cheat block. (Example: Tom Cruise/Vacancy)
-  - As a general rule, if you have to surf on a ramp to get on top of the anti telehop it is not allowed. (Example: Cryogen)
-  - Height advantages where one does not have to leave the startzone (E.g. Hyperspeed) are allowed.
+#### Leaving the startzone and re-entering the startzone to gain a height advantage at the start of the map or re-entering after touching an anti cheat block. (Example: Tom Cruise/Vacancy, Blossom Heaven)
+ - As a general rule, if you have to surf on a ramp to get on top of the anti telehop it is not allowed. (Example: Cryogen)
+ - Height advantages where one does not have to leave the startzone (E.g. Hyperspeed) are allowed.
