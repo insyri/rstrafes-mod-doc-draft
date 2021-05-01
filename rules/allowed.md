@@ -8,7 +8,7 @@ Using the [unofficial Roblox FPS Unlocker](https://github.com/axstin/rbxfpsunloc
 Binding mouse movement left/right to a keyboard/mouse button.
 
 ## Creating Scripts
-Developing exploits and scripts for cheating on the games *alone* are not blacklistable, however *using* the cheats makes you qualified for a blacklist.
+Developing exploits and scripts for cheating on the games *alone* are not blacklistable, however *using* the cheats makes you qualified for a blacklist. Holding scripts and not using them is not blacklistable, however, unmoral in most cases. >:(
 
 ## Telehopping
 Purposefully surfing/bhopping into a trigger to respawn with more speed. (This does not apply to all maps, some may have an anti-telehop.)
@@ -20,3 +20,5 @@ Spaz-strafing/spinning after a stage teleport to gain speed before hitting the g
 ## Scroll Edgeboosting
 See edgeboosting (im not done here)
 
+## No-Leave Startzone Heights
+Height advantages where one does not have to leave the startzonee (E.g. Hyperspeed) are allowed.
