@@ -1,4 +1,4 @@
-**Everything is subject to change.**
+**Everything is subject to change. If you don't know how to use Github, please read below.**
 
 # strafes.net-moderation-document-draft
 
