@@ -39,4 +39,4 @@ In the **Issues** section, you will see a bar with utilities and possibly an act
 In the example issue, you can see the title, tags, and how long ago it was created along with who.
 ![image](https://user-images.githubusercontent.com/60794909/116126051-2faa6980-a694-11eb-88b9-9c451b47758e.png)
 
-Alike the Discussions, with the only difference being the tags, this helps for sectioning and specifying what kind of issue this is. Issues can be resolved and closed.
+Alike the Discussions, with the only difference being the tags, this helps for sectioning and specifying what kind of issue this is. Issues can be resolved and closed. If you still need help, you can ask [@insyri](https://github.com/insyri).
