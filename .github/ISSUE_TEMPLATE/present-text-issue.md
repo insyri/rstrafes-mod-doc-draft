@@ -1,6 +1,6 @@
 ---
-name: Present Text Issue (Typo/False Information/Needs Enhancements)
-about: General Issue With Present Text
+name: Present Text Issue
+about: Typo / False Information / Needs Enhancements
 title: Present Text Issue
 labels: general text issue
 assignees: ''
