@@ -1,6 +1,6 @@
 ---
 name: Missing Information
-about: Missing Information
+about: Missing Information In The Text
 title: Missing Information
 labels: missing
 assignees: ''
