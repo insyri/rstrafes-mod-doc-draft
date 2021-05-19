@@ -14,6 +14,11 @@ The purpose for this repository is to make the ruleset strict with exile of huma
 
 If you are not accustomed to Github, please refer to our navigation text [here](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md).
 
+Public websites:
+- [issues.strafes.net](https://issues.strafes.net)
+- [wiki.strafes.net](https://wiki.strafes.net)
+- [api.strafes.net](https://api.strafes.net)
+
 ### Terminology
 
 #### WR
