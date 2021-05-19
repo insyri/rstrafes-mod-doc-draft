@@ -6,6 +6,8 @@ This is a rule draft sheet for the strafes.net moderator team to revise and for 
 
 The purpose for this repository is to make the ruleset strict with exile of human determination, moderation with bias is subject to favor or disservice others, removing this creates fairness for all players and keeps a constant logic.
 
+If you see an issue with the rules **here** please let a moderator know or submit a [github issue](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md#issues). If you see an issue on the [wiki](https://wiki.strafes.net/), please submit an issue form in our [issue site](https://issues.strafes.net). If you would like to talk with the community about moderation while letting us see, you can go do so in our [discussions page](https://github.com/insyri/strafes.net-moderation-document-draft/discussions).
+
 > If you don't have "hard" policies it also gives mods wiggle room to favor people they like and fuck people they dislike.
 
 ## Info
