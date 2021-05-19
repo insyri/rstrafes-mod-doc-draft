@@ -8,6 +8,8 @@ The purpose for this repository is to make the ruleset strict with exile of huma
 
 If you see an issue with the rules **here** please let a moderator know or submit a [github issue](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md#issues). If you see an issue on the [wiki](https://wiki.strafes.net/), please submit an issue form in our [issue site](https://issues.strafes.net). If you would like to talk with the community about moderation while letting us see, you can go do so in our [discussions page](https://github.com/insyri/strafes.net-moderation-document-draft/discussions).
 
+To use these github services, [make an account](https://github.com/join) ([its free](https://www.roblox.com/library/130771265/ITS-FREE)).
+
 > If you don't have "hard" policies it also gives mods wiggle room to favor people they like and fuck people they dislike.
 
 ## Info
