@@ -40,11 +40,7 @@ Self explanitory.
 Self explanitory; the alternate account is known to be related with a cheater.
 ## Suspicious
 This category is most commonly used when the moderator isn't 100% on the reason, or legitimacy, but knows it doesn't make sense either way.
-### Speedgain
-sussy
-### Player
-Overall player is ***sussy***.
-### Sync
-sussy
-### Time
-sussy
+- Speedgain
+- Player
+- Sync
+- Time
