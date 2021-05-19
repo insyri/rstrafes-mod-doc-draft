@@ -18,7 +18,7 @@ To use these github services, [make an account](https://github.com/join) ([its f
 
 If you are not accustomed to Github, please refer to our navigation text [here](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md).
 
-Public websites:
+## Public websites:
 - [issues.strafes.net](https://issues.strafes.net)
 - [wiki.strafes.net](https://wiki.strafes.net)
 - [api.strafes.net](https://api.strafes.net)
