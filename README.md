@@ -14,6 +14,8 @@ To use these github services, [make an account](https://github.com/join) ([its f
 
 ## Info
 
+[Javelin](https://github.com/Azurilex/Javelin)
+
 ### Navigation
 
 If you are not accustomed to Github, please refer to our navigation text [here](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md).
