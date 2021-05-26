@@ -16,5 +16,5 @@ Provided below are examples of potential banworthy offenses. Certain cases may a
 - Players who purchase unreleased maps and get “world record” will not receive a whitelist. This also applies to new maps that have just come out. If your time is still world record within a few days, you will be whitelisted.
 - These rules are specifically for the main bhop/surf games
 - Game places can be found here:
-  - https://www.roblox.com/games/252877716/bhop
-  - https://www.roblox.com/games/272689493/surf
+  - https://www.roblox.com/games/5315046213/bhop
+  - https://www.roblox.com/games/5315066937/surf
