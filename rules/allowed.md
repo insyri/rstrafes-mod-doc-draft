@@ -10,6 +10,10 @@ Binding mouse movement left/right to a keyboard/mouse button.
 ## Creating Scripts
 Developing exploits and scripts for cheating on the games *alone* are not blacklistable, however *using* the cheats makes you qualified for a blacklist. Holding scripts and not using them is not blacklistable, however, unmoral in most cases. >:(
 
+Quaternions made a comment on a youtube [video](https://www.youtube.com/watch?v=aFVJyse2M_4) regarding a script tutorial.
+![image](https://user-images.githubusercontent.com/60794909/120088350-66bdd180-c0bd-11eb-8769-f8da845c566c.png)
+
+
 ## Telehopping
 Purposefully surfing/bhopping into a trigger to respawn with more speed. (This does not apply to all maps, some may have an anti-telehop.)
 
