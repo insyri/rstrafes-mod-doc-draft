@@ -30,8 +30,11 @@ If you are not accustomed to Github, please refer to our navigation text [here](
 #### WR
 World Record
 
+#### OOB
+Out Of Bounds
+
 #### Deleter
-This is a person with power to delete times of the leaderboard.
+This is a person with power to delete times of the leaderboard
 
 ### Moderators
 
