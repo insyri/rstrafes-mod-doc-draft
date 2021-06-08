@@ -44,7 +44,6 @@ This is a person with power to delete times of the leaderboard
 - st0tty
 - y_Mia
 - cryptiss
-- [h6ro](https://github.com/1337hiro)
 - [kytalii](https://github.com/Azurilex)
 
 #### Bhop Moderators
