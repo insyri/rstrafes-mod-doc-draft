@@ -1,10 +1,10 @@
-**Everything is subject to change. If you don't know how to use Github, please read below.**
+**Everything is subject to change and to move to the Wiki. If you don't know how to use Github, please read below.**
 
 # strafes.net-moderation-document-draft
 
-This is a rule draft sheet for the strafes.net moderator team to revise and for the public to read.
+This is a rule draft sheet for revision and critical commentary (read further for more info about commentary).
 
-The purpose for this repository is to make the ruleset strict with exile of human determination, moderation with bias is subject to favor or disservice others, removing this creates fairness for all players and keeps a constant logic.
+The purpose for this repository is to make the ruleset strict with exile of human determination, moderation with bias is subject to favor or disservice others, removing this creates fairness for all players and keeps a constant logic. As this is a draft, this is not the finalized or pubilshed version of the rules, all will be moved to [https://wiki.strafes.net/moderation_rules](https://wiki.strafes.net/moderation_rules).
 
 If you see an issue with the rules **here** please let a moderator know or submit a [github issue](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/navigation.md#issues). If you see an issue on the [wiki](https://wiki.strafes.net/), please submit an issue form in our [issue site](https://issues.strafes.net). If you would like to talk with the community about moderation while letting us see, you can go do so in our [discussions page](https://github.com/insyri/strafes.net-moderation-document-draft/discussions).
 
