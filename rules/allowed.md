@@ -5,7 +5,7 @@ This section provides clarity to what is allowed that is questionable.
 Using the [unofficial Roblox FPS Unlocker](https://github.com/axstin/rbxfpsunlocker) is allowed in the game. [Roblox does allow allow using this](https://devforum.roblox.com/t/does-roblox-allow-the-use-of-fps-unlockers/486458/2), it only changes data in the memory, so it is not injecting.
 
 ## Turn Binds
-Binding mouse movement left/right to a keyboard/mouse button.
+Turn bind scripts are allowed but are limited to one key press performing a single action or output (mouse movement). This is inclusive of keys which already have functions in game.
 
 ## Creating Scripts
 Developing exploits and scripts for cheating on the games *alone* are not blacklistable, however *using* the cheats makes you qualified for a blacklist. Holding scripts and not using them is not blacklistable, however, unmoral in most cases. >:(
