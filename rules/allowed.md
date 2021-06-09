@@ -26,3 +26,6 @@ See edgeboosting (im not done here)
 
 ## No-Leave Startzone Heights
 Height advantages where one does not have to leave the startzonee (E.g. Hyperspeed) are allowed.
+
+## Key Binding
+A user may bind their keys and map them to a different key, this is, again, limited to one key press; one input, one output.
