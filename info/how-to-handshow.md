@@ -1,10 +1,10 @@
 # Handshow Guide
-This is a document dedicated to the rules and clarity of recording a handshow that was requested by moderators.
+This is a document dedicated to the recommendations and clarity of recording a handshow that were requested by moderators.
 This does not apply to handshows that were not asked by mods, but is endorsed.
 
 This is incomplete and needs revision.
 
-## TLDR
+## TL;DR
 
 - Have a monitor completely visible
 - Have keyboard completely visible or at least A/D keys
@@ -24,16 +24,9 @@ A handshow consists of two video inputs:
 2. The recording for the screen.
 
 ### Hand Recording
-Rules follow for hand recording:
-1. Whole mousepad/hand must be visible at all times during the show.
-2. Sound recording must be loud enough to hear the mouse dragging around lightly; must be able to hear clicks.
-3. Surroundings must be at least dim enough to see the mouse shape clearly without the possible RGB lighting on. [This is an example of a NOT well lit room](https://i.pinimg.com/originals/e6/d8/e8/e6d8e8488a1c1f7d35f8c3785bf3363e.jpg).
-#### Rules Regarding Camera/Webcam Capture Quality
-Any/most cameras have all these features, if your camera exceed the following
-We agknowledge some of us are not as fortunate to have a spare webcam or camera lying around, there are alternatives to which you use but it is recommended that you get a camera that contains the following qualities:
-- At least around 144x144 resolution (as export to upload as well)
-- At least 24 frames per second capture
-Stated above is not strict, the bottom line is that **it should be easy to see the hand and hand movement**.
+Recommendations for hand recording:
+1. Whole relevant mousepad/hand must be visible at all times during the show. (Relevant means the space used.)
+2. Surroundings must be at least dim enough to see the mouse shape clearly without the possible RGB lighting on. [This is an example of a NOT well lit room](https://i.pinimg.com/originals/e6/d8/e8/e6d8e8488a1c1f7d35f8c3785bf3363e.jpg).
 #### Recording Content
 - Computer restart
 - Task Manager Processes and start up processes
@@ -42,12 +35,11 @@ Stated above is not strict, the bottom line is that **it should be easy to see t
 - Mouse
 - Monitor
 - Audio
-- Keyboard (At least WASD)
+- Keyboard (At least the keys you use)
 
 ## Post Recording
-- No skipping, cutting, filtering, or editing of any kind after or before recording the video that directly affects the hand view.
-[chris](https://www.youtube.com/watch?v=IOSiWzkuMz8) has a video with a good example of editing that does not affect the hand view.
+For a 100% handshow, editing for cutting, skipping, or filtering is not recommended. If you think you can improve something for the handshow via editing, like syncing unsynced video sources, then it makes sense. **If it doesn't change anything when edited in relation to the raw, it is probably OK,** but it's easier not to edit at all.
 
-Rule of thumb is this: if it doesn't change anything when editied in relative to the undedited, it is probably okay. However, it is just easier to not edit it at all.
-- File type must be previewable somehow without downloading the video, whether on a website or on the discord client/app.
-If your camera takes footage in a file format not supported by discord previewing, convert it using an online application to mp4.
+Sharing the recording is recommended to be previewable without local computer downloads, you can put your video on YouTube, Streamable, Medal, and if you want to send it through Discord, you can compress the video down to requirements at [8mb.video](https://8mb.video/), just make sure it isn't too compressed. If you are sending through Discord, make sure it's in an mp4 format, else, you should convert it to an mp4 via any website you trust or local computing.
+
+Handshow camera and screen recording can be seperate uploads.
