@@ -29,5 +29,5 @@ See [Edgeboosting](https://github.com/insyri/strafes.net-moderation-document-dra
 ## No-Leave Startzone Heights
 Height advantages where one does not have to leave the startzone (E.g. Hyperspeed) are allowed.
 
-## Key Binding
-A user may bind their keys and map them to a different key, this is, again, limited to one key press; one input, one output.
+## Key Binding For Strafing
+A user may bind their keys and map them to a different key, this is, again, limited to one key press; one input, one output. Setting a chat macro is allowed.
