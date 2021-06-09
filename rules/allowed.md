@@ -7,6 +7,9 @@ Using the [unofficial Roblox FPS Unlocker](https://github.com/axstin/rbxfpsunloc
 ## Turn Binds
 Turn bind scripts are allowed but are limited to one key press performing a single action or output (mouse movement). This is inclusive of keys which already have functions in game.
 
+## INTEGRATED Timescale
+There is an integrated command in the game, `/timescale`, as this does not save the user's time, it is there for practicing. Breaking this to save times is cheating.
+
 ## Creating Scripts
 Developing exploits and scripts for cheating on the games *alone* are not blacklistable, however *using* the cheats makes you qualified for a blacklist. Holding scripts and not using them is not blacklistable, however, unmoral in most cases. >:(
 
@@ -19,13 +22,12 @@ Purposefully surfing/bhopping into a trigger to respawn with more speed. (This d
 
 ## Spinning/Strafing Inside Anti-Telehop
 Spaz-strafing/spinning after a stage teleport to gain speed before hitting the ground.
-<sub>fiveman 3/26/2021<sub>
 
 ## Scroll Edgeboosting
-See edgeboosting (im not done here)
+See [Edgeboosting](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/rules/gameplay-sins.md#edgeboostingedgesurfing). Scroll Edgeboosting is allowed mostly because of how easy it is to accidentally edgeboost in the scroll style.
 
 ## No-Leave Startzone Heights
-Height advantages where one does not have to leave the startzonee (E.g. Hyperspeed) are allowed.
+Height advantages where one does not have to leave the startzone (E.g. Hyperspeed) are allowed.
 
 ## Key Binding
 A user may bind their keys and map them to a different key, this is, again, limited to one key press; one input, one output.

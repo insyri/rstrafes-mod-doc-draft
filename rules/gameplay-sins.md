@@ -12,7 +12,7 @@ New accounts used made to cheat, or accounts that were made by an already blackl
 ## Warnable
 ### Edgeboosting/Edgesurfing
 Abusing the edges of a platform in order to gain any amount of speed, usually you surf a little off of it. Jumping on the spine of surf ramps without gaining speed is not edgeboosting.
-*Note: Edgeboosting rules do not apply to the Scroll category.*
+*Note: Edgeboosting offenses do not apply to the Scroll category.*
 ### Edge Ricochet
 Abusing the edge of any platform/part to abuse game mechanics and directionally push to dramatically change one's height.
 *AKA, Bouncing or Long Pocketing.*
