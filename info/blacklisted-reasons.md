@@ -14,14 +14,14 @@ Binding the scroll wheel up/down to any other input or systematically triggering
 ### Nulls
 Preventing the user from pressing a key to achieve/aim for perfect/close to perfect sync; nullifying/disabling a button to register.
 ### SHSW Binds
-Binds that are used for the Half-Sideways style to `A`,`D` instead of the regular `A`,`D`,`W`. [One input, one ouput.](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/rules/allowed.md#key-binding)
+Binds that are used for the Half-Sideways style to `A`,`D` instead of the regular `A`,`D`,`W`. [One input, one output.](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/rules/allowed.md#key-binding)
 ### Timescale
 Manipulating the in-game time to either slow down or speed up the user.
 *Note: using the `/timescale` command IS allowed, but it does not submit the user's time. Using injections to bypass this, blacklistable.*
 ### Ladder Boosting
 Abuse of using ladders to boost over the edge to instantly gain units.
 ### Modified Physics
-Modifying physics to advange. This includes breaking `/freecam`.
+Modifying physics to advantage. This includes breaking `/freecam`.
 ## Glitch
 ### Wrong Map
 Saving a time on another map that is not the map that is currently being used on purpose.
@@ -34,9 +34,9 @@ Hitting a corner where multiple parts meet which results in you teleporting to t
 *Note: better explained with a [visual example](https://www.youtube.com/watch?v=PE2eeKD0nwg)*
 ## Alternate Account
 ### <1 Month Account Age
-Self explanitory; the alternate account was made before the 30-31 day mark.
+Self explanatory; the alternate account was made before the 30-31 day mark.
 ### Known Cheater
-Self explanitory; the alternate account is known to be related with a cheater.
+Self explanatory; the alternate account is known to be related with a cheater.
 ## Suspicious
 This category is most commonly used when the moderator isn't 100% on the reason, or legitimacy, but knows it doesn't make sense either way.
 - Speedgain
