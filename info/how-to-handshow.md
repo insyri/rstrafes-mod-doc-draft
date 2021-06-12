@@ -42,4 +42,4 @@ For a 100% handshow, editing for cutting, skipping, or filtering is not recommen
 
 Sharing the recording is recommended to be previewable without local computer downloads, you can put your video on YouTube, Streamable, Medal, and if you want to send it through Discord, you can compress the video down to requirements at [8mb.video](https://8mb.video/), just make sure it isn't too compressed. If you are sending through Discord, make sure it's in an mp4 format, else, you should convert it to an mp4 via any website you trust or local computing.
 
-Handshow camera and screen recording can be seperate uploads.
+Handshow camera and screen recording can be separate uploads.
