@@ -29,7 +29,7 @@ As blacklisted, a user may appeal to be whitelisted; accept and reject. When an 
 
 If a user is blacklisted from the system, the appeal may only be accepted if the system made a mistake.
 
-Some blacklists are temporary, others are permanent; once the temporary blacklist is over, the user gets time wiped unless an active appeal is made, in that case it may be either a time wipe or a indivdual time deletions.
+Some blacklists are temporary, others are permanent; once the temporary blacklist is over, the user gets time wiped unless an active appeal is made, in that case it may be either a time wipe or individual time deletions.
 # Other Notes
 - [Deleted Times](https://github.com/insyri/strafes.net-moderation-document-draft/blob/main/faq/moderation.md#i-cant-see-my-times)
 - [Source: Quaternions](https://media.discordapp.net/attachments/550710704261300281/611428605079322646/unknown.png)
