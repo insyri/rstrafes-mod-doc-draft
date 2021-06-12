@@ -1,6 +1,6 @@
 # Other Rationales For Blacklisting
 ## Cheating On Other Movement Games
-Defining *movement games* as any game simliar to or involves bhop or strafe movement.
+Defining *movement games* as any game similar to or involves bhop or strafe movement.
 
 If a user is known for cheating or exploiting on other movement games other than rbhop/rsurf, the user is given a blacklist due to being untrustworthy; proof must be shown before counting this as a reason for a blacklist issue.
 
